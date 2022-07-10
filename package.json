@@ -1,10 +1,14 @@
 {
   "name": "nodemailjs",
-  "version": "0.1.5",
-  "description": "",
+  "version": "1.5.5",
+  "description": "Allows you to send emails to people in a simple way, and by being able to integrate html code.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/Jules010209/nodemailjs"
   },
   "keywords": [],
   "author": "jules010209",
